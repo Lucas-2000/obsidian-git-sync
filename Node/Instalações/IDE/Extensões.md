@@ -1,0 +1,13 @@
+Utilizando o vscode possuímos algumas extensões que podem ser muito úteis enquanto estamos desenvolvendo, minhas preferidas são:
+- CodeSnap: Poder tirar prints bonitos do código.
+- Tabnine: IA que faz sugestões de preenchimento a partir do seu código tornando mais produtivo.
+- Intelisense: Identificar métodos que podemos usar a partir de alguns tipos e estruturas, além de possíveis sugestões a partir da linguagem utilizada.
+- Github Copilot: IA para gerar auto completes ou gerar um código a partir do seu comentário tornando mais produtivo (Pago).
+- Autoimport: Gerar importações de estruturas em outros arquivos corretamente.
+- Ninja Console: Possibilita ver os resultados dos console.logs direito no vscode.
+- Thunder Client: Fazer requisições HTTP para testar os endpoints da sua API.
+- Live Server: Possibilita um auto reload automático de um arquivo HTML sem precisar atualizar a página.
+- Material Icons: Deixar os arquivos e as pastas com ícones diferentes.
+- Min Dark Theme: Tema diferente para deixar a ide mais bonita.
+- Gitlens: Facilita manipulação do seu repositório git.
+- Eslint: Fazer a verificação do código para ele manter um padrão de escrita em todos os arquivos.

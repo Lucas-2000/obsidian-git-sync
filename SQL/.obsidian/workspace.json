@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "272307a71a22242b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ec677b543e13e0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9e24f10c59ddb2e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9fd8126fadd2b040",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a0cba0db9354c83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69cee842e2c1f8a7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b73606a01a84259f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "path:\"Análises/Olist/\" ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b8c9bc69dd6fa03d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9f16a2be4526abe9",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b56a1bf16efb1c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb8e1cfe186405bf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1a0f6e057ecd2de9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "891b34c2b4a7293d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6937b38d8e8002b7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "a9e24f10c59ddb2e",
+  "lastOpenFiles": [
+    "Análises/Olist/Olist.md",
+    "Comandos/SELECT.md",
+    "Análises/Olist",
+    "Análises",
+    "Comandos/INSERT.md",
+    "Introdução.md",
+    "Comandos"
+  ]
+}

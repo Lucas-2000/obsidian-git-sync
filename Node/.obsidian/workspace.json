@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "e57f7a04d0ba6483",
+    "type": "split",
+    "children": [
+      {
+        "id": "4990cdbe140b0524",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51c3f2918c7a6f4d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e01b7e7e782b3a03",
+    "type": "split",
+    "children": [
+      {
+        "id": "8bf2b8988dace78d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c695cad8cad9c6ce",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1596e9d1d9dc6f68",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "71b7d7e13b77c363",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4573ee6adf0b6857",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f467b3bf115f647",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3078bf51e130f80b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d7c4a1c96d9a3af1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1bbe2ba37f773d16",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6cdb7924712145ab",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "c695cad8cad9c6ce",
+  "lastOpenFiles": [
+    "Arquitetura/Minha organização.md",
+    "Sem títtesulo.md",
+    "Sem título.canvas",
+    "SQL.md",
+    "Sem título",
+    "Testes/Funções/Test.md",
+    "Testes/Funções/Describe.md",
+    "Testes/Funções/Assets/Describe.png",
+    "Testes/Funções/Assets/Test.png",
+    "Testes/Funções/Assets",
+    "Instalações/IDE/Json Settings.md",
+    "Instalações/IDE/IDE.md",
+    "Instalações/IDE/Extensões.md",
+    "Arquitetura/Introdução.md",
+    "Arquitetura/Assets/Clean Architeture.png",
+    "Pasted image 20231105221549.png",
+    "Pasted image 20231102155202.png.md",
+    "Arquitetura/Assets/Pasted image 20231102175648.png.md",
+    "Arquitetura/Assets/Pasted image 20231102155202.png.md",
+    "Arquitetura/Assets/DDD.png",
+    "Testes/Introdução.md",
+    "Instalações/Como instalar.md",
+    "Iniciando um projeto/Iniciar um projeto.md",
+    "Arquitetura/Sem título.md",
+    "Testes/Funções",
+    "Testes",
+    "Instalações/IDE",
+    "Instalações",
+    "Iniciando um projeto",
+    "Arquitetura/Assets",
+    "Arquitetura"
+  ]
+}

@@ -1,0 +1,2 @@
+Deve acessar o site oficial do node.js, fazer o downloads seguir os passos para instalação
+Outra opção é fazer a instalação do nvm que faz o gerenciamento de versões do node, com você podendo fazer a alteração facilmente entre diferentes versões de acordo com o projeto que você está mexendo.

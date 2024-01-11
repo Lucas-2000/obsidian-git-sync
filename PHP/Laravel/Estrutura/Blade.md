@@ -1,0 +1,1 @@
+Blade é a template engine utilizada pelo Laravel. Por meio dele as views se tornam dinâmicas, inserindo tags html e também dados vindo do banco de dados. Ou seja, as views são responsabilidade do blade.

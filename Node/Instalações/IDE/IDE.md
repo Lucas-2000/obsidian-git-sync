@@ -1,0 +1,2 @@
+Para poder criar os códigos de um projeto que envolva node.js, javascript, typescript, etc. Precisamos de um editor de código, o mais indicado é o vscode que possui suporte nativo para essas linguagens e um terminal integrado para você executar utilizando o runtime do node.
+Para instalar é só acessar o site oficial do vscode e fazer a instalação.

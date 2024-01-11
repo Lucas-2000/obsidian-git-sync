@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "b32c08e41fcfb52a",
+    "type": "split",
+    "children": [
+      {
+        "id": "399eb707041ed42b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "718ff70f70a54703",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Laravel/Estrutura/Eloquent.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "552255809f84d11a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fb78b303d83a5e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e5d0809d4a16e31",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "df1602c35763012d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "67fdee86dedef834",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "47c3821c3d0c7739",
+    "type": "split",
+    "children": [
+      {
+        "id": "6fc00f479c3973f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee52185a23ca473e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Laravel/Estrutura/Eloquent.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "88240f23655efe0b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Laravel/Estrutura/Eloquent.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "88c4e165250dd4fd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a16510ad31947f63",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Laravel/Estrutura/Eloquent.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "718ff70f70a54703",
+  "lastOpenFiles": [
+    "Laravel/Estrutura/Migrations.md",
+    "Laravel/Estrutura/Eloquent.md",
+    "Laravel/Estrutura/Conexão com o banco.md",
+    "Laravel/Estrutura/Controllers.md",
+    "Laravel/Estrutura/Parâmetros nas rotas.md",
+    "Laravel/Estrutura/Layouts.md",
+    "Laravel/Executar Servidor.md",
+    "Laravel",
+    "Laravel/Documentação.md",
+    "Laravel/Criar projeto laravel.md",
+    "Laravel/Estrutura/Arquivos estáticos.md",
+    "Laravel/Estrutura/Blade.md",
+    "Laravel/Estrutura/Rotas e Views.md",
+    "Laravel/Estrutura/Estrutura.md",
+    "Sem título.md",
+    "Laravel/Estrutura",
+    "Welcome.md"
+  ]
+}

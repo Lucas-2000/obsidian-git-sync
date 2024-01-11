@@ -1,0 +1,1 @@
+Nessa sessão farei o controle de tudo que aprende referente ao SQL

@@ -1,0 +1,1 @@
+Para utilizar arquivos estáticos como css, js e imagens, devemos colocar eles no diretório public.
