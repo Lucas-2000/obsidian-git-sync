@@ -1,0 +1,3 @@
+- [] Configurar SMTP.
+- [] Criar App Email.
+- [] Desenvolver o envio.

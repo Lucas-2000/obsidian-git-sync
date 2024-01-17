@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f5e30da3baa632b5",
+        "id": "5fd771d5b8a83d43",
         "type": "tabs",
         "children": [
           {
-            "id": "455d55600de1aecb",
+            "id": "9fd577116bb22106",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Publicação PyPi/Era Moderna/Poetry.md",
+                "file": "Projeto Transcrição de Vídeo/Tasks Notes/Envio de email.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Publicação PyPi/Era Moderna/Poetry.md",
+                "file": "Projeto Transcrição de Vídeo/Tasks Notes/Envio de email.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Publicação PyPi/Era Moderna/Poetry.md",
+                "file": "Projeto Transcrição de Vídeo/Tasks Notes/Envio de email.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Publicação PyPi/Era Moderna/Poetry.md"
+                "file": "Projeto Transcrição de Vídeo/Tasks Notes/Envio de email.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,20 +147,46 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "455d55600de1aecb",
+  "active": "9fd577116bb22106",
   "lastOpenFiles": [
-    "Publicação PyPi/Idade Média/Workflow.md",
-    "Publicação PyPi/Era Moderna/Poetry.md",
-    "Publicação PyPi/Era Moderna",
-    "Publicação PyPi/Idade Média/Setup.md",
-    "Publicação PyPi/Idade Média/Publicação.md",
-    "Publicação PyPi/Idade Média/Distribuição.md",
-    "Publicação PyPi/Idade Média",
-    "Publicação PyPi/Idade Média/assets",
-    "Publicação PyPi/Idade Média/assets/Workflow dos pacotes.png",
-    "Virtual environment.md",
+    "Projeto Transcrição de Vídeo/Oberon.md",
+    "Projeto Transcrição de Vídeo/Tasks Notes/Autenticação (Login, Cadastro e Reset de senha).md",
+    "Projeto Transcrição de Vídeo/Tasks.md",
+    "Projeto Transcrição de Vídeo/Tasks Notes/Envio de email.md",
+    "Envio de email para reset.md",
+    "Projeto Transcrição de Vídeo/Tasks Notes",
     "Instalar pacote.md",
-    "Publicação PyPi",
-    "Welcome.md"
+    "Curso Django/Configurações/Criar aplicativo.md",
+    "Curso Django/Configurações/Context Processors.md",
+    "Curso Django/Configurações/Arquivos Static.md",
+    "Curso Django/Configurações/Ambiente virtual.md",
+    "Curso Django/Configurações/Aplicativo Base.md",
+    "Curso Django/Configurações/Variáveis de ambiente.md",
+    "Curso Django/Configurações/Criando projeto.md",
+    "Curso Django/Configurações/Logs.md",
+    "Projeto Transcrição de Vídeo",
+    "Curso Django/Autenticação e Permissão de Acesso/Rota de Cadastro.md",
+    "Curso Django/Introdução.md",
+    "Curso Django/Autenticação e Permissão de Acesso/Rota de Login.md",
+    "Curso Django/Autenticação e Permissão de Acesso/Session Timeout.md",
+    "Curso Django/Autenticação e Permissão de Acesso/Autenticação customizada.md",
+    "Curso Django/Configurações/Mensagem de Alerta.md",
+    "Curso Django/Autenticação e Permissão de Acesso",
+    "Plotly Dash/O que é.md",
+    "Curso Django/Configurações",
+    "Curso Django/Configurações/Cors.md",
+    "Curso Django/Configurações/assets",
+    "Curso Django/Configurações/assets/tela_inicial_django.png",
+    "Plotly Dash/Estilização.md",
+    "Curso Django",
+    "Plotly Dash/DHC (HTML ou Layouts).md",
+    "Plotly Dash/Exemplo simples de execução.md",
+    "Plotly Dash/Instalação.md",
+    "Plotly Dash",
+    "Publicação PyPi/Era Moderna/Poetry/assets",
+    "Publicação PyPi/Era Moderna/Poetry/assets/estrutura.png",
+    "Publicação PyPi/Era Moderna/Poetry",
+    "Publicação PyPi/Era Moderna",
+    "Publicação PyPi/Idade Média/assets/Workflow dos pacotes.png"
   ]
 }

@@ -1,0 +1,1 @@
+Dash é uma ferramenta para criação de gráficos interativos na web. Ela não requer conhecimento em Web, HTML, CSS e JS. A proposta é se apoiar totalmente em python.

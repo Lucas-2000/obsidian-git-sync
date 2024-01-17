@@ -1,0 +1,4 @@
+- [] Criar tela para login.
+- [] Criar tela de cadastro.
+- [] Criar tela reset de senha.
+- [] Envio de email para reset: [[Envio de email]] (Task Relacionada).

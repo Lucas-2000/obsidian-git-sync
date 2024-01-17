@@ -1,0 +1,1 @@
+Para estilizar os elementos do Dash devemos fazer por meio do CSS. Devemos adicionar ele em /assets/style.css.
