@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projeto Transcrição de Vídeo/Tasks Notes/Envio de email.md",
+                "file": "Curso Django/Configurações/Variáveis de ambiente.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projeto Transcrição de Vídeo/Tasks Notes/Envio de email.md",
+                "file": "Curso Django/Configurações/Variáveis de ambiente.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projeto Transcrição de Vídeo/Tasks Notes/Envio de email.md",
+                "file": "Curso Django/Configurações/Variáveis de ambiente.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projeto Transcrição de Vídeo/Tasks Notes/Envio de email.md"
+                "file": "Curso Django/Configurações/Variáveis de ambiente.md"
               }
             }
           }
@@ -149,20 +149,21 @@
   },
   "active": "9fd577116bb22106",
   "lastOpenFiles": [
+    "Curso Django/Configurações/Cors.md",
+    "Curso Django/Configurações/Criando projeto.md",
+    "Curso Django/Configurações/Arquivos Static.md",
+    "Curso Django/Configurações/Context Processors.md",
+    "Curso Django/Configurações/Aplicativo Base.md",
+    "Curso Django/Configurações/Ambiente virtual.md",
     "Projeto Transcrição de Vídeo/Oberon.md",
+    "Projeto Transcrição de Vídeo/Tasks Notes/Envio de email.md",
     "Projeto Transcrição de Vídeo/Tasks Notes/Autenticação (Login, Cadastro e Reset de senha).md",
     "Projeto Transcrição de Vídeo/Tasks.md",
-    "Projeto Transcrição de Vídeo/Tasks Notes/Envio de email.md",
     "Envio de email para reset.md",
     "Projeto Transcrição de Vídeo/Tasks Notes",
     "Instalar pacote.md",
     "Curso Django/Configurações/Criar aplicativo.md",
-    "Curso Django/Configurações/Context Processors.md",
-    "Curso Django/Configurações/Arquivos Static.md",
-    "Curso Django/Configurações/Ambiente virtual.md",
-    "Curso Django/Configurações/Aplicativo Base.md",
     "Curso Django/Configurações/Variáveis de ambiente.md",
-    "Curso Django/Configurações/Criando projeto.md",
     "Curso Django/Configurações/Logs.md",
     "Projeto Transcrição de Vídeo",
     "Curso Django/Autenticação e Permissão de Acesso/Rota de Cadastro.md",
@@ -174,7 +175,6 @@
     "Curso Django/Autenticação e Permissão de Acesso",
     "Plotly Dash/O que é.md",
     "Curso Django/Configurações",
-    "Curso Django/Configurações/Cors.md",
     "Curso Django/Configurações/assets",
     "Curso Django/Configurações/assets/tela_inicial_django.png",
     "Plotly Dash/Estilização.md",
