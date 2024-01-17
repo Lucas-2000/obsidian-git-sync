@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5fd771d5b8a83d43",
+        "id": "d612ce1e9ad3682f",
         "type": "tabs",
         "children": [
           {
-            "id": "9fd577116bb22106",
+            "id": "e17294049ea9df33",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curso Django/Configurações/Variáveis de ambiente.md",
+                "file": "Projeto Transcrição de Vídeo/Oberon.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curso Django/Configurações/Variáveis de ambiente.md",
+                "file": "Projeto Transcrição de Vídeo/Oberon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curso Django/Configurações/Variáveis de ambiente.md",
+                "file": "Projeto Transcrição de Vídeo/Oberon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Curso Django/Configurações/Variáveis de ambiente.md"
+                "file": "Projeto Transcrição de Vídeo/Oberon.md"
               }
             }
           }
@@ -147,8 +147,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "9fd577116bb22106",
+  "active": "e17294049ea9df33",
   "lastOpenFiles": [
+    "Curso Django/Configurações/Variáveis de ambiente.md",
     "Curso Django/Configurações/Cors.md",
     "Curso Django/Configurações/Criando projeto.md",
     "Curso Django/Configurações/Arquivos Static.md",
@@ -163,7 +164,6 @@
     "Projeto Transcrição de Vídeo/Tasks Notes",
     "Instalar pacote.md",
     "Curso Django/Configurações/Criar aplicativo.md",
-    "Curso Django/Configurações/Variáveis de ambiente.md",
     "Curso Django/Configurações/Logs.md",
     "Projeto Transcrição de Vídeo",
     "Curso Django/Autenticação e Permissão de Acesso/Rota de Cadastro.md",
