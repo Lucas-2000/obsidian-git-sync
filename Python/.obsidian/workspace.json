@@ -11,9 +11,11 @@
             "id": "e17294049ea9df33",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Projeto Transcrição de Vídeo/Tasks.md"
+                "file": "Django/Envio de email.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projeto Transcrição de Vídeo/Tasks.md",
+                "file": "Django/Envio de email.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projeto Transcrição de Vídeo/Tasks.md",
+                "file": "Django/Envio de email.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projeto Transcrição de Vídeo/Tasks.md"
+                "file": "Django/Envio de email.md"
               }
             }
           }
@@ -145,11 +147,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "3455bbfa54925ef0",
+  "active": "e17294049ea9df33",
   "lastOpenFiles": [
     "Projeto Transcrição de Vídeo/Tasks Notes/Envio de email.md",
-    "Django/Envio de email.md",
     "Projeto Transcrição de Vídeo/Tasks.md",
+    "Django/Envio de email.md",
     "Django",
     "Projeto Transcrição de Vídeo/Oberon.md",
     "Projeto Transcrição de Vídeo/Tasks Notes/Autenticação (Login, Cadastro e Reset de senha).md",
