@@ -6,7 +6,6 @@ kanban-plugin: basic
 
 ## Backlog
 
-- [ ] [[Envio de email]]
 - [ ] Upload arquivos
 - [ ] Cloudflare para salvar os arquivos
 - [ ] Conversão arquivo vídeo para áudio
@@ -27,7 +26,6 @@ kanban-plugin: basic
 
 ## Initiate
 
-- [ ] [[Autenticação (Login, Cadastro e Reset de senha)]]
 
 
 ## Build
@@ -45,6 +43,8 @@ kanban-plugin: basic
 ## Closed
 
 - [ ] Landing page @{2024-01-17}
+- [ ] [[Autenticação (Login, Cadastro e Reset de senha)]]
+- [ ] [[Projeto Transcrição de Vídeo/Tasks Notes/Envio de email]]
 
 
 

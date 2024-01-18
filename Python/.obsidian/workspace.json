@@ -11,9 +11,11 @@
             "id": "e17294049ea9df33",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Projeto Transcrição de Vídeo/Tasks.md"
+                "file": "Django/Envio de email.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projeto Transcrição de Vídeo/Tasks.md",
+                "file": "Django/Envio de email.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projeto Transcrição de Vídeo/Tasks.md",
+                "file": "Django/Envio de email.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projeto Transcrição de Vídeo/Tasks.md"
+                "file": "Django/Envio de email.md"
               }
             }
           }
@@ -147,9 +149,12 @@
   },
   "active": "e17294049ea9df33",
   "lastOpenFiles": [
-    "Projeto Transcrição de Vídeo/Tasks Notes/Envio de email.md",
     "Projeto Transcrição de Vídeo/Tasks.md",
+    "Django/Envio de email.md",
+    "Django",
     "Projeto Transcrição de Vídeo/Oberon.md",
+    "Projeto Transcrição de Vídeo/Tasks Notes/Envio de email.md",
+    "Projeto Transcrição de Vídeo/Tasks Notes/Autenticação (Login, Cadastro e Reset de senha).md",
     "Curso Django/Configurações/Variáveis de ambiente.md",
     "Curso Django/Configurações/Cors.md",
     "Curso Django/Configurações/Criando projeto.md",
@@ -157,7 +162,6 @@
     "Curso Django/Configurações/Context Processors.md",
     "Curso Django/Configurações/Aplicativo Base.md",
     "Curso Django/Configurações/Ambiente virtual.md",
-    "Projeto Transcrição de Vídeo/Tasks Notes/Autenticação (Login, Cadastro e Reset de senha).md",
     "Envio de email para reset.md",
     "Projeto Transcrição de Vídeo/Tasks Notes",
     "Instalar pacote.md",
@@ -179,12 +183,10 @@
     "Curso Django",
     "Plotly Dash/DHC (HTML ou Layouts).md",
     "Plotly Dash/Exemplo simples de execução.md",
-    "Plotly Dash/Instalação.md",
     "Plotly Dash",
     "Publicação PyPi/Era Moderna/Poetry/assets",
     "Publicação PyPi/Era Moderna/Poetry/assets/estrutura.png",
     "Publicação PyPi/Era Moderna/Poetry",
-    "Publicação PyPi/Era Moderna",
     "Publicação PyPi/Idade Média/assets/Workflow dos pacotes.png"
   ]
 }
