@@ -11,11 +11,9 @@
             "id": "e17294049ea9df33",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Django/Envio de email.md",
-                "mode": "source",
-                "source": false
+                "file": "Projeto Transcrição de Vídeo/Tasks.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Django/Envio de email.md",
+                "file": "Projeto Transcrição de Vídeo/Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Django/Envio de email.md",
+                "file": "Projeto Transcrição de Vídeo/Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Django/Envio de email.md"
+                "file": "Projeto Transcrição de Vídeo/Tasks.md"
               }
             }
           }
@@ -149,9 +147,9 @@
   },
   "active": "e17294049ea9df33",
   "lastOpenFiles": [
+    "Django/Envio de email.md",
     "Projeto Transcrição de Vídeo/Tasks Notes/Envio de email.md",
     "Projeto Transcrição de Vídeo/Tasks.md",
-    "Django/Envio de email.md",
     "Django",
     "Projeto Transcrição de Vídeo/Oberon.md",
     "Projeto Transcrição de Vídeo/Tasks Notes/Autenticação (Login, Cadastro e Reset de senha).md",
