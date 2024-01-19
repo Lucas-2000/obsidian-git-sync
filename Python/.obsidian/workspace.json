@@ -11,9 +11,11 @@
             "id": "e17294049ea9df33",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Projeto Transcrição de Vídeo/Tasks.md"
+                "file": "Curso Django/Configurações/Aplicativo Base.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projeto Transcrição de Vídeo/Tasks.md",
+                "file": "Curso Django/Configurações/Aplicativo Base.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projeto Transcrição de Vídeo/Tasks.md",
+                "file": "Curso Django/Configurações/Aplicativo Base.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projeto Transcrição de Vídeo/Tasks.md"
+                "file": "Curso Django/Configurações/Aplicativo Base.md"
               }
             }
           }
@@ -147,9 +149,9 @@
   },
   "active": "e17294049ea9df33",
   "lastOpenFiles": [
+    "Projeto Transcrição de Vídeo/Tasks.md",
     "Django/Envio de email.md",
     "Projeto Transcrição de Vídeo/Tasks Notes/Envio de email.md",
-    "Projeto Transcrição de Vídeo/Tasks.md",
     "Django",
     "Projeto Transcrição de Vídeo/Oberon.md",
     "Projeto Transcrição de Vídeo/Tasks Notes/Autenticação (Login, Cadastro e Reset de senha).md",
