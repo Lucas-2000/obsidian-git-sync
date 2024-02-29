@@ -1,123 +1,89 @@
 {
 
-  "workbench.iconTheme": "material-icon-theme",
+  "workbench.iconTheme": "symbols",
 
-  "code-runner.clearPreviousOutput": true,
+  "symbols.hidesExplorerArrows": false,
 
-  "code-runner.saveFileBeforeRun": true,
+  "editor.wordWrap": "on",
 
-  "typescript.validate.enable": true,
+  "editor.lineHeight": 1.8,
 
-  "javascript.validate.enable": true,
-
-  "javascript.updateImportsOnFileMove.enabled": "always",
-
-  "tabnine.experimentalAutoImports": true,
-
-  "gitlens.advanced.messages": {
-
-    "suppressLineUncommittedWarning": true
-
-  },
+  "editor.tabSize": 2,
 
   "workbench.tree.indent": 14,
 
   "editor.fontSize": 14,
 
-  "editor.fontFamily": "Fira Code",
+  "code-runner.saveFileBeforeRun": true,
 
-  "editor.lineHeight": 1.75,
-
-  "editor.tabSize": 2,
-
-  "editor.fontLigatures": true,
+  "code-runner.clearPreviousOutput": true,
 
   "workbench.startupEditor": "newUntitledFile",
 
-  "editor.wordWrap": "on",
-
-  "editor.minimap.renderCharacters": false,
-
-  "telemetry.telemetryLevel": "off",
-
-  "security.workspace.trust.untrustedFiles": "open",
-
-  "breadcrumbs.filePath": "off",
-
-  "outline.icons": false,
-
-  "liveServer.settings.donotShowInfoMsg": true,
-
-  "liveServer.settings.donotVerifyTags": true,
-
   "editor.formatOnSave": true,
-
-  "html.format.wrapAttributes": "auto",
-
-  "html.format.wrapLineLength": 0,
-
-  "html.autoClosingTags": false,
-
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
-
-  "[html]": {
-
-    "editor.defaultFormatter": "vscode.html-language-features"
-
-  },
-
-  "[javascriptreact]": {
-
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-
-  },
-
-  "[json]": {
-
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-
-  },
-
-  "editor.colorDecorators": false,
-
-  "editor.inlineSuggest.enabled": true,
-
-  "typescript.updateImportsOnFileMove.enabled": "always",
-
-  "code-runner.saveAllFilesBeforeRun": true,
-
-  "terminal.integrated.defaultProfile.windows": "Windows PowerShell",
-
-  "[prisma]": {
-
-    "editor.defaultFormatter": "Prisma.prisma"
-
-  },
 
   "workbench.productIconTheme": "fluent-icons",
 
-  "workbench.colorTheme": "Min Dark",
+  "workbench.colorTheme": "Winter is Coming (Dark Black - No Italics)",
 
-  "symbols.hidesExplorerArrows": false,
+  "editor.fontFamily": "JetBrains Mono",
 
-  "terminal.integrated.env.windows": {},
+  "editor.fontLigatures": true,
 
-  "redhat.telemetry.enabled": true,
-
-  "[php]": {
-
-    "editor.defaultFormatter": "DEVSENSE.phptools-vscode"
-
-  },
+  "editor.rulers": [80, 120],
 
   "window.zoomLevel": 1,
 
-  "[java]": {
+  "editor.minimap.enabled": false,
 
-    "editor.defaultFormatter": "redhat.java"
+  "editor.renderLineHighlight": "gutter",
+
+  "workbench.editor.labelFormat": "short",
+
+  "explorer.compactFolders": false,
+
+  "editor.semanticHighlighting.enabled": false,
+
+  "breadcrumbs.enabled": false,
+
+  "workbench.activityBar.location": "hidden",
+
+  "editor.scrollbar.vertical": "hidden",
+
+  "editor.scrollbar.horizontal": "hidden",
+
+  "editor.inlineSuggest.enabled": true,
+
+  "workbench.statusBar.visible": false,
+
+  "code-runner.saveAllFilesBeforeRun": true,
+
+  "editor.colorDecorators": false,
+
+  "tabnine.experimentalAutoImports": true,
+
+  "terminal.integrated.env.windows": {},
+
+  "terminal.integrated.fontSize": 14,
+
+  "window.menuBarVisibility": "compact",
+
+  "window.commandCenter": false,
+
+  "workbench.layoutControl.enabled": false,
+
+  "files.associations": {
+
+    "*.html": "html"
 
   },
 
-  "terminal.external.windowsExec": "C:\\WINDOWS\\system32\\cmd.exe"
+  "[typescript]": {
+
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+
+  },
+
+  "typescript.updateImportsOnFileMove.enabled": "always",
 
 }

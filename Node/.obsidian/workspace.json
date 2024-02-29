@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4990cdbe140b0524",
+        "id": "8e83f4d9d7cc9602",
         "type": "tabs",
         "children": [
           {
-            "id": "51c3f2918c7a6f4d",
+            "id": "a90305a085ee15fe",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Testes/Funções/Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Testes/Funções/Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Testes/Funções/Test.md"
+              }
             }
           }
         ]
@@ -140,19 +144,22 @@
   },
   "active": "c695cad8cad9c6ce",
   "lastOpenFiles": [
+    "Testes/Funções/Describe.md",
+    "Instalações/Como instalar.md",
+    "Instalações/IDE/Json Settings.md",
+    "Instalações/IDE/Extensões.md",
+    "Iniciando um projeto/Iniciar um projeto.md",
+    "Docker compose.md",
     "Arquitetura/Minha organização.md",
     "Sem títtesulo.md",
     "Sem título.canvas",
     "SQL.md",
     "Sem título",
     "Testes/Funções/Test.md",
-    "Testes/Funções/Describe.md",
     "Testes/Funções/Assets/Describe.png",
     "Testes/Funções/Assets/Test.png",
     "Testes/Funções/Assets",
-    "Instalações/IDE/Json Settings.md",
     "Instalações/IDE/IDE.md",
-    "Instalações/IDE/Extensões.md",
     "Arquitetura/Introdução.md",
     "Arquitetura/Assets/Clean Architeture.png",
     "Pasted image 20231105221549.png",
@@ -161,8 +168,6 @@
     "Arquitetura/Assets/Pasted image 20231102155202.png.md",
     "Arquitetura/Assets/DDD.png",
     "Testes/Introdução.md",
-    "Instalações/Como instalar.md",
-    "Iniciando um projeto/Iniciar um projeto.md",
     "Arquitetura/Sem título.md",
     "Testes/Funções",
     "Testes",

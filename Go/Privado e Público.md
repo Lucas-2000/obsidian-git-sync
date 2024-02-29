@@ -1,0 +1,1 @@
+Para definir alguma função, variável como privada devemos colocar a inicial dela com a letra minúscula e pública com a letra maiúscula. Algo privado funciona apenas dentro daquele pacote específico mas fora dele não.

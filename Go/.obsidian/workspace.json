@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "fcb4c8a76bcb434f",
+    "type": "split",
+    "children": [
+      {
+        "id": "1dfdde55e41c687b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4a94b249b8091d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Criar módulo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "40ef711753c56b53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Run.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e3f02741c70ffc2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Build.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4759c0b4893c26f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Privado e Público.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c07f752ee9ac728",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pacotes Externos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b297ce9c215c54a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1f0f2560e01f52d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8129257e81e3dbd9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "55c0aea364167f96",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fa60c0ee0ec785e6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "68304cd670d3ddcf",
+    "type": "split",
+    "children": [
+      {
+        "id": "77cfa9a447fd5260",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39993b47ee427350",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pacotes Externos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "31804310a1b5f577",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Pacotes Externos.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d21950fe612026fd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dde824e59dcd27c6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Pacotes Externos.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "4c07f752ee9ac728",
+  "lastOpenFiles": [
+    "Privado e Público.md",
+    "Pacotes Externos.md",
+    "Funções.md",
+    "assets/Exemplo comentário função.png",
+    "assets",
+    "Build.md",
+    "Run.md",
+    "Criar módulo.md",
+    "Welcome.md"
+  ]
+}
