@@ -66,9 +66,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0f7c978ab8bc9976",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -187,6 +197,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
@@ -195,7 +206,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "4c07f752ee9ac728",
+  "active": "0f7c978ab8bc9976",
   "lastOpenFiles": [
     "Privado e Público.md",
     "Pacotes Externos.md",
