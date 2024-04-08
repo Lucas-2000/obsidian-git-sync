@@ -1,18 +1,22 @@
 {
   "main": {
-    "id": "e57f7a04d0ba6483",
+    "id": "869b0967d8ec69e7",
     "type": "split",
     "children": [
       {
-        "id": "c63b94e8c9db8dab",
+        "id": "42c9431817706f8d",
         "type": "tabs",
         "children": [
           {
-            "id": "4c814062f53b14f3",
+            "id": "638e35c71e49be5a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Escopo.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -21,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e01b7e7e782b3a03",
+    "id": "6d3a1fe1d5b29a61",
     "type": "split",
     "children": [
       {
-        "id": "8bf2b8988dace78d",
+        "id": "fe28f0c2a9813ed0",
         "type": "tabs",
         "children": [
           {
-            "id": "c695cad8cad9c6ce",
+            "id": "f3a0974e12a21410",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +43,7 @@
             }
           },
           {
-            "id": "1596e9d1d9dc6f68",
+            "id": "7112e5a29f5dafa7",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +58,7 @@
             }
           },
           {
-            "id": "71b7d7e13b77c363",
+            "id": "8a6a58c3c8bb66ab",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,19 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "4573ee6adf0b6857",
+    "id": "365776c4190e1d1c",
     "type": "split",
     "children": [
       {
-        "id": "3f467b3bf115f647",
+        "id": "d8d223b8aac867f8",
         "type": "tabs",
         "children": [
           {
-            "id": "3078bf51e130f80b",
+            "id": "ddb2fef20b787c1b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Escopo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +97,19 @@
             }
           },
           {
-            "id": "d7c4a1c96d9a3af1",
+            "id": "7257ebfbbb5573c7",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Escopo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "1bbe2ba37f773d16",
+            "id": "8e7855aac378e3ad",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,11 +120,13 @@
             }
           },
           {
-            "id": "6cdb7924712145ab",
+            "id": "708f99d4a01fd6b3",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Escopo.md"
+              }
             }
           }
         ]
@@ -138,39 +146,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "4c814062f53b14f3",
+  "active": "638e35c71e49be5a",
   "lastOpenFiles": [
-    "Iniciando um projeto/Iniciar um projeto.md",
-    "Instalações/Como instalar.md",
-    "Testes/Funções/Describe.md",
-    "Instalações/IDE/Json Settings.md",
-    "Instalações/IDE/Extensões.md",
-    "Docker compose.md",
-    "Arquitetura/Minha organização.md",
-    "Sem títtesulo.md",
-    "Sem título.canvas",
-    "SQL.md",
-    "Sem título",
-    "Testes/Funções/Test.md",
-    "Testes/Funções/Assets/Describe.png",
-    "Testes/Funções/Assets/Test.png",
-    "Testes/Funções/Assets",
-    "Instalações/IDE/IDE.md",
-    "Arquitetura/Introdução.md",
-    "Arquitetura/Assets/Clean Architeture.png",
-    "Pasted image 20231105221549.png",
-    "Pasted image 20231102155202.png.md",
-    "Arquitetura/Assets/Pasted image 20231102175648.png.md",
-    "Arquitetura/Assets/Pasted image 20231102155202.png.md",
-    "Arquitetura/Assets/DDD.png",
-    "Testes/Introdução.md",
-    "Arquitetura/Sem título.md",
-    "Testes/Funções",
-    "Testes",
-    "Instalações/IDE",
-    "Instalações",
-    "Iniciando um projeto",
-    "Arquitetura/Assets",
-    "Arquitetura"
+    "Regras de negócios.md",
+    "Escopo.md",
+    "Requisitos Não Funcionais.md",
+    "Welcome.md"
   ]
 }
